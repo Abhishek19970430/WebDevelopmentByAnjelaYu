@@ -1,0 +1,23 @@
+{
+  "name": "2.3-npm",
+  "version": "1.0.0",
+  "description": "Learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek19970430/WebDevelopmentByAnjelaYu.git"
+  },
+  "author": "Abhishek Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek19970430/WebDevelopmentByAnjelaYu/issues"
+  },
+  "homepage": "https://github.com/Abhishek19970430/WebDevelopmentByAnjelaYu#readme",
+  "dependencies": {
+    "superheroes": "^4.0.0"
+  }
+}
